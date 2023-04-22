@@ -1,0 +1,72 @@
+{
+    "days" : [
+        { "id" : 1, "day" : 1},
+        { "id" : 2, "day" : 2},
+        { "id" : 3, "day" : 3}
+    ],
+    "words" : [
+        {
+            "id":1,
+            "day":1,
+            "eng": "book",
+            "kor": "책",
+            "isDone": false
+        },
+        {
+            "id":2,
+            "day":1,
+            "eng": "pen",
+            "kor": "펜",
+            "isDone": false
+        },
+        {
+            "id":3,
+            "day":1,
+            "eng": "desk",
+            "kor": "책상",
+            "isDone": false
+        },
+        {
+            "id":4,
+            "day":1,
+            "eng": "note",
+            "kor": "공책",
+            "isDone": false
+        },
+        {
+            "id": 5,
+            "day": 2,
+            "eng": "computer",
+            "kor": "컴퓨터",
+            "isDone": false
+        },
+        {
+            "id": 6,
+            "day": 2,
+            "eng": "laptop",
+            "kor": "노트북",
+            "isDone": false
+        },
+        {
+            "id": 7,
+            "day": 2,
+            "eng": "mouse",
+            "kor": "마우스",
+            "isDone": false
+        },
+        {
+            "id": 8,
+            "day": 3,
+            "eng": "snack",
+            "kor": "과자",
+            "isDone": false
+        },
+        {
+            "id": 9,
+            "day": 3,
+            "eng": "coffe",
+            "kor": "커피",
+            "isDone": false
+        }
+    ]
+}
